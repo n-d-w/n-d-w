@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Dev Whoops
+- 👋 Hi, I’m Dev(Who)Ops
 - ⚡ Fun fact: ... whoops :-)
 
